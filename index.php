@@ -15,6 +15,7 @@ and open the template in the editor.
         echo $alt;
         echo "Hola. Soy jorge";
         echo "Hola que paza";
+        echo "Soy una modificacion";
         ?>
     </body>
 </html>
