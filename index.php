@@ -14,6 +14,7 @@ and open the template in the editor.
         $alt=rand(1, 10);
         echo $alt;
         echo "Hola. Soy jorge";
+        echo "Hola que paza";
         ?>
     </body>
 </html>
