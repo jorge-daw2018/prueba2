@@ -16,6 +16,7 @@ and open the template in the editor.
         echo "Hola. Soy jorge";
         echo "Hola que paza";
         echo "Soy una modificacion";
+        echo "Yo soy otra modificación";
         ?>
     </body>
 </html>
