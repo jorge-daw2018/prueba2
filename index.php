@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         $alt=rand(1, 10);
         echo $alt;
+        echo "Hola. Soy jorge";
         ?>
     </body>
 </html>
